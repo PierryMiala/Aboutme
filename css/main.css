@@ -61,12 +61,12 @@
 }
  
 .section-light{
- background-color: #E8E8E8;
+ background-color: #e8e8e8;
  color:#666;
 }
  
 .section-dark{
- background-color:#282e34;
+ background-color:#1d503b;
  color: #ddd;
 }
  
@@ -77,7 +77,7 @@
  top: 50%;
  width: 100%;
  text-align: center;
- color: #000;
+ color: rgb(0, 0, 0);
  font-size: 27px;
  letter-spacing: 8px;
  text-transform: uppercase;
@@ -254,15 +254,15 @@
     background-color: #616161;
    }
    .back-end {
-    width: 90%;
+    width: 98%;
     background-color: #616161;
    }
    .front-end {
-    width: 85%;
+    width: 70%;
     background-color: #616161;
    }
    .testing {
-    width: 80%;
+    width: 90%;
     background-color: #616161;
    }
    .design {
