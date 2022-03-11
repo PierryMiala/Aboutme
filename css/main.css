@@ -62,11 +62,11 @@
  
 .section-light{
  background-color: #e8e8e8;
- color:#666;
+ color:rgb(37, 35, 35);
 }
  
 .section-dark{
- background-color:#1d503b;
+ background-color:#093121;
  color: #ddd;
 }
  
@@ -250,11 +250,11 @@
     margin: 15px 0;
    }
     
-   .learn{ width: 100%;
+   .learn{ width: 80%;
     background-color: #616161;
    }
    .back-end {
-    width: 98%;
+    width: 95%;
     background-color: #616161;
    }
    .front-end {
@@ -266,7 +266,7 @@
     background-color: #616161;
    }
    .design {
-    width: 75%;
+    width: 85%;
     background-color: #616161;
    }
     
